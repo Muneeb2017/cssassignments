@@ -1,0 +1,15 @@
+.container {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  margin: 25px;
+  height: 200px;
+  width: 300px;
+  outline: dashed 1px black;
+  display: flex;
+  justify-content: center;
+}
+.child {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+}
